@@ -1,0 +1,3 @@
+[submodule "catgptreact"]
+	path = catgptreact
+	url = https://github.com/michaelwaves/catgptreact
